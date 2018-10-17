@@ -1,0 +1,2 @@
+python 没有自增自减
+format {0}{1}
